@@ -1,5 +1,7 @@
 # Italian PD Dataset
 
+![Italian Parkinson's Dataset Logo](logo/italian_pd_dataset_logo.gif)
+
 ## Overview
 The Italian Parkinson's Voice and Speech Database consists of audio recordings from Italian speakers, including patients with Parkinson's disease and healthy controls. This comprehensive collection was designed to facilitate research in speech-based detection and monitoring of Parkinson's disease.
 
